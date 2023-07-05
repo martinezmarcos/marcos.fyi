@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "format": "prettier --write \"./**/*.{js,jsx,ts,tsx,css,md,json}\""
+    "format": "prettier --write \"./**/*.{js,jsx,ts,tsx,css,md,json,html}\""
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
